@@ -1,0 +1,61 @@
+/*html {background-color: black;}*/
+body { margin: 0; font-family: Arial, sans-serif; }
+#canvas { width: 100%; height: 90vh; }
+#controls, #independent {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	background: rgba(0,0,0,0.7);
+	padding: 10px;
+	color: white;
+	border-radius: 5px;
+	/* width: 500px;
+	height: 400px; */
+	/*width: 94%;*/
+}
+.slider-container {
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+}
+.slider-container input {
+	flex-grow: 0;
+	width: 200px;
+	margin-right: 10px;
+}
+.slider-container span {
+	min-width: 60px;
+}
+
+
+.subtle-button {
+	all: unset;
+}
+
+.hide {
+	display: none;
+}
+
+/* Image Sequence Navigation Functionality */
+
+#sequenceNavigation {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 0;
+}
+
+.sequence-nav-controls {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+#currentSequenceName {
+	font-weight: bold;
+}
+
+.control-button:disabled {
+	opacity: 0.5;
+	cursor: not-allowed;
+}
