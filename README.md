@@ -1,6 +1,5 @@
 Program to explore triband RGB combinations in hyperspectral data.
 Allows you to select three bands from a hyperspectral image sequence and map them to RGB.  
-Have fun exploring all the different colors you can bring out!
 
 ### Sliders:
 #### **R, G, B**:  
@@ -15,3 +14,5 @@ Modifies the relative intensities between the channels. Tweak these sliders to b
 ### Examples of hyperspectral data: 
 - https://github.com/boazarad/ARAD_1K
 - https://www.youtube.com/t_GBfZFYtBY
+
+Have fun exploring all the different colors you can bring out!
