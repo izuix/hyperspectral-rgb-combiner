@@ -12,7 +12,7 @@ Another way to control the mapping, Base offsets the selected wavelengths and Sp
 #### **Saturation**:  
 With saturation you can bring out otherwise subtle color differences between close together wavelengths. (Reveal hidden colors inside green or blue for example!)  
 #### **White balance** (color *Temperature* and *Tint*):  
-Modifies the relative intensities between the channels. Tweak these sliders to bring out color contrast by removing color casts.  
+Modifies the relative intensities between the channels. Tweak these sliders to bring out color contrast by correcting color casts.  
 
 ### Examples of hyperspectral data: 
 - https://github.com/boazarad/ARAD_1K
