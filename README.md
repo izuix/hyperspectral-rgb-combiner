@@ -18,8 +18,9 @@ With saturation you can bring out otherwise subtle color differences between clo
 Modifies the relative intensities between the channels. Tweak these sliders to bring out color contrast by correcting color casts.  
 
 ### Examples of hyperspectral data:
-- https://scyllarus.data61.csiro.au/data/
 - https://github.com/boazarad/ARAD_1K
 - https://www.youtube.com/t_GBfZFYtBY
+- https://scyllarus.data61.csiro.au/data/
+- https://personalpages.manchester.ac.uk/staff/d.h.foster/Hyperspectral_images_of_natural_scenes_02.html
 
 Have fun exploring all the different colors you can bring out!
