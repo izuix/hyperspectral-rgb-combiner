@@ -1,7 +1,7 @@
 Program to explore triband RGB combinations in hyperspectral data.
 Allows you to select three bands from a hyperspectral image sequence and map them to RGB.  
 
-Use the online demo [here](https://izuix.github.io/hyperspectral-rgb-combiner/)
+Use online [here](https://izuix.github.io/hyperspectral-rgb-combiner/)
 ![screenshot](https://github.com/izuix/hyperspectral-rgb-combiner/blob/main/Screenshot%20(41).png)
 
 ### To get started
